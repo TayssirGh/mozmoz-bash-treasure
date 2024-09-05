@@ -1,0 +1,11 @@
+
+      [0;34m------------------[0;33m--------------------[0;31m---------------------[0m
+    /  Variables are placeholders where we store data             \
+   |   They are called variables because the data they hold can   |
+   |   change.                                                    |
+   |   To print the contents of a variable to your terminal, use  |
+   |   the [0;31m $[0m symbol before the variable name.                    |
+    \                                                            /
+      [0;34m------------------[0;33m--------------------[0;31m---------------------[0m
+  /
+🧙‍♂️

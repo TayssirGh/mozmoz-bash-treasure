@@ -1,0 +1,15 @@
+ You found a short Wand!
+  [0;33m.^.:.
+ <.*.'::.  *     .*
+   |  .:''    .:'
+   |  '::.  .:'
+   |    ':::'    *
+ * |     `*'[0m
+
+ [0;34m------------------[0;33m--------------------[0;31m---------------------[0m
+ # Create a variable to add it to your inventory.            #
+ # « export I=short_wand »                                         #
+ # You can view your inventory with:                         #
+ # « echo $I »                                               #
+ # Now that you have a sword, try to kill the Elden Beast!   #
+ [0;34m------------------[0;33m--------------------[0;31m---------------------[0m

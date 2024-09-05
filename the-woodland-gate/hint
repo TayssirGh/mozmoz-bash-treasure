@@ -4,11 +4,11 @@
    |                                                             |
    | chest, you need to run the script for it  Use the command:  |
    |                                                             |
-   | ./script.sh                                                 |
+   | [0;31m ./script.sh[0m                                                |
    |                                                             |
    | But before that you may need to give it execution permission|
    |                                                             |
-   | using chmod +x script.                                      |
+   | using [0;31mchmod +x script[0m                                       |
    |                                                             |
    | Also, remember that pressing Tab while typing the file name |
    |                                                             |
