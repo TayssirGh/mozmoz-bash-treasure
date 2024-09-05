@@ -1,0 +1,19 @@
+   [0;34m____________________[0;33m______________[0;31m____________________________[0m
+ /\                                                              \
+ \_| Files ending in .sh are special Bash scripts. To unlock the |
+   |                                                             |
+   | chest, you need to run the script for it  Use the command:  |
+   |                                                             |
+   | ./script.sh                                                 |
+   |                                                             |
+   | But before that you may need to give it execution permission|
+   |                                                             |
+   | using chmod +x script.                                      |
+   |                                                             |
+   | Also, remember that pressing Tab while typing the file name |
+   |                                                             |
+   | will help you complete it automatically!                    |
+   |   [0;34m_______________________[0;33m___________________[0;31m________________|___[0m
+    \_[0;34m/_______________________[0;33m___________________[0;31m__________________/[0m
+
+
