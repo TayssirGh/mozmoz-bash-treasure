@@ -29,7 +29,7 @@ mv .second_glade second_glade 2>/dev/null
 }
 
 is_dead(){
-	if (( _HP <= 0 )); then
+	if (( $beast_HP <= 0 )); then
 		declare -g beast_is_dead="dead"
 	fi
 }
@@ -55,7 +55,7 @@ if [[ $ans == 'y' ]] || [ "$ans" = "Y" ]; then
 	echo -e "The beast has $beast_HP HP\n"
 	echo -e "Attack again? y/n \n"
 	read -r ans2
-	if [[ $ans2 == 'y' ]]; then
+	if [ "$ans2" = "y" ] || [ "$ans2" = "Y" ]; then
 		echo -e "You attack the beast with your $wand_type wand!\n"
 		(( beast_HP -= damage ))
 		is_dead
@@ -64,6 +64,8 @@ if [[ $ans == 'y' ]] || [ "$ans" = "Y" ]; then
 			remains
 			exit 0
 		fi
+  	else
+    		echo -e "You hesitate, and the beast recovers all of his health!\n"
 	fi
 elif [ "$ans" = "n" ] || [ "$ans" = "N" ]; then
     echo "He's quite frightening right ?"
