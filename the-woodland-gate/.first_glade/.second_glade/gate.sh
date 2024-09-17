@@ -21,7 +21,7 @@ read -r val
 
 
 if [[ $val != "$lock_val" ]]; then
-	echo "Wrong!"
+	echo "Wrong! but don't give up , take another look around !"
 	exit 0
 else
 	echo "Correct! You found 10 gold coins!"

@@ -7,7 +7,7 @@
 # a variable?For example, you might want to keep the wand       #
 # sword and add the long wand  to your inventory as well.       #
 # In that case, you can use the following syntax:               #
-#     export I=long_wand,$I                                     #
+#    [0;34m export I=long_wand,$I    [0m                                 #
 # With that, the long_wand  is added to your inventory. If you  #
 # echo $I, you’ll see that both items are now in your inventory.#
 [0;34m------------------[0;33m--------------------[1;31m---------------------[0m
