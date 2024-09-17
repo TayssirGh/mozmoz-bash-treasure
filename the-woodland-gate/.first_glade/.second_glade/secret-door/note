@@ -1,21 +1,21 @@
-[0;34m#####################[0;33m#######################[0;31m########################[0m
-[0;34m#[0m You may have already realized that you can use « cat » to see inside[0;31m#[0m
-[0;34m#[0m                                                                     [0;31m#[0m
-[0;34m#[0m  the file. While this is a good method for quickly checking         [0;31m#[0m
-[0;34m#[0m                                                                     [0;31m#[0m
-[0;34m#[0m  a short script or file, it will be annoying for longer files.      [0;31m#[0m
-[0;34m#[0m                                                                     [0;31m#[0m
-[0;34m#[0m  In this chamber, there is a poetry book. Try the cat command on it [0;31m#[0m
-[0;34m#[0m                                                                     [0;31m#[0m
-[0;34m#[0m  but add this to the end of your spell [0;33m«   less »[0m                   [0;31m#[0m
-[0;34m#[0m                                                                     [0;31m#[0m
-[0;34m#[0m  You will be able to scroll up and down with arrow keys or the vi   [0;31m#[0m
-[0;34m#[0m                                                                     [0;31m#[0m
-[0;34m#[0m  keys: j for down and k for up                                      [0;31m#[0m
-[0;34m#[0m                                                                     [0;31m#[0m
-[0;34m#[0m  Press q to quit less                                               [0;31m#[0m
-[0;34m#[0m                                                                     [0;31m#[0m
-[0;34m#[0m  Another useful tip :                                               [0;31m#[0m
-[0;34m#[0m  « .. » always means one directory behind, Can you figure out how   [0;31m#[0m
-[0;34m#[0m  to use cd with « .. »?                                             [0;31m#[0m
- [0;34m#####################[0;33m#######################[0;31m########################[0m
+[0;34m#####################[0;33m#######################[1;31m########################[0m
+[0;34m#[0m You may have already realized that you can use « cat » to see inside[1;31m#[0m
+[0;34m#[0m                                                                     [1;31m#[0m
+[0;34m#[0m  the file. While this is a good method for quickly checking         [1;31m#[0m
+[0;34m#[0m                                                                     [1;31m#[0m
+[0;34m#[0m  a short script or file, it will be annoying for longer files.      [1;31m#[0m
+[0;34m#[0m                                                                     [1;31m#[0m
+[0;34m#[0m  In this chamber, there is a poetry book. Try the cat command on it [1;31m#[0m
+[0;34m#[0m                                                                     [1;31m#[0m
+[0;34m#[0m  but add this to the end of your spell [0;33m«   less »[0m                   [1;31m#[0m
+[0;34m#[0m                                                                     [1;31m#[0m
+[0;34m#[0m  You will be able to scroll up and down with arrow keys or the vi   [1;31m#[0m
+[0;34m#[0m                                                                     [1;31m#[0m
+[0;34m#[0m  keys: j for down and k for up                                      [1;31m#[0m
+[0;34m#[0m                                                                     [1;31m#[0m
+[0;34m#[0m  Press q to quit less                                               [1;31m#[0m
+[0;34m#[0m                                                                     [1;31m#[0m
+[0;34m#[0m  Another useful tip :                                               [1;31m#[0m
+[0;34m#[0m  « .. » always means one directory behind, Can you figure out how   [1;31m#[0m
+[0;34m#[0m  to use cd with « .. »?                                             [1;31m#[0m
+ [0;34m#####################[0;33m#######################[1;31m########################[0m

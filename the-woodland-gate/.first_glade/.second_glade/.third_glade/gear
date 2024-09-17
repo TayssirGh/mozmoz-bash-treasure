@@ -1,4 +1,4 @@
-[0;34m------------------[0;33m--------------------[0;31m---------------------[0m
+[0;34m------------------[0;33m--------------------[1;31m---------------------[0m
 # So far, you've learned how to assign values to variables      #
 # and print them using echo. You've probably also noticed       #
 # that assigning a new value to a variable overrides the        #
@@ -10,4 +10,4 @@
 #     export I=long_wand,$I                                     #
 # With that, the long_wand  is added to your inventory. If you  #
 # echo $I, you’ll see that both items are now in your inventory.#
-[0;34m------------------[0;33m--------------------[0;31m---------------------[0m
+[0;34m------------------[0;33m--------------------[1;31m---------------------[0m

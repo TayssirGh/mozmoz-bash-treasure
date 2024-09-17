@@ -1,8 +1,8 @@
 #!/bin/bash
 
 chest_file="chest.txt"
-RED='\033[0;31m'
-YELLOW='\033[\0;33m'
+RED='\033[1;31m'
+YELLOW='\033[\1;33m'
 BLUE='\033[0;34m'
 NC='\033[0m'
 
