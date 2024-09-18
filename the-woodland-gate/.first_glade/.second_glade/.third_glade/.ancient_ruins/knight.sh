@@ -116,14 +116,17 @@ if [[ $ans  == f  ]] || [[ $ans  == F  ]]; then
           knight_HP=0
           echo -e "You killed the knight! He is now dead.\n"
           is_dead
-      else
+      elif [[ $finish_ans == n ]] || [[ $finish_ans == N ]]; then
           echo -e "You spared the knight! He appreciates your mercy and offers you a gift.\n"
           knight_gift
           hall_chamber
+      else
+        echo "Your answer is invalid"
       fi
 elif [ "$ans" == g ]; then
   echo "Keeping it simple huh ?"
   ((gold -= 10))
+  echo "You now have $gold remaining"
   hall_chamber
 else
   echo "Your answer is invalid"
