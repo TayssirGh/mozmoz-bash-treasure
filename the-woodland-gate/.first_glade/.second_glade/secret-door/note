@@ -1,4 +1,4 @@
-[0;34m#####################[0;33m#######################[1;31m########################[0m
+[0;34m#####################[1;33m#######################[1;31m########################[0m
 [0;34m#[0m You may have already realized that you can use « cat » to see inside[1;31m#[0m
 [0;34m#[0m                                                                     [1;31m#[0m
 [0;34m#[0m  the file. While this is a good method for quickly checking         [1;31m#[0m
@@ -7,7 +7,7 @@
 [0;34m#[0m                                                                     [1;31m#[0m
 [0;34m#[0m  In this chamber, there is a poetry book. Try the cat command on it [1;31m#[0m
 [0;34m#[0m                                                                     [1;31m#[0m
-[0;34m#[0m  but add this to the end of your spell [0;33m«   less »[0m                   [1;31m#[0m
+[0;34m#[0m  but add this to the end of your spell [1;33m«   less »[0m                   [1;31m#[0m
 [0;34m#[0m                                                                     [1;31m#[0m
 [0;34m#[0m  You will be able to scroll up and down with arrow keys or the vi   [1;31m#[0m
 [0;34m#[0m                                                                     [1;31m#[0m
@@ -15,7 +15,4 @@
 [0;34m#[0m                                                                     [1;31m#[0m
 [0;34m#[0m  Press q to quit less                                               [1;31m#[0m
 [0;34m#[0m                                                                     [1;31m#[0m
-[0;34m#[0m  Another useful tip :                                               [1;31m#[0m
-[0;34m#[0m  « .. » always means one directory behind, Can you figure out how   [1;31m#[0m
-[0;34m#[0m  to use cd with « .. »?                                             [1;31m#[0m
- [0;34m#####################[0;33m#######################[1;31m########################[0m
+ [0;34m#####################[1;33m#######################[1;31m########################[0m

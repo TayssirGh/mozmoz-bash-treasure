@@ -14,6 +14,6 @@
                l       I     !
                ]\      _\    /"\
               (" ~----( ~   Y.  )
-          [0;34m~~~~~~~~~[0;33m~~~~~~~~~[1;31m~~~~~~~~~[0m
+          [0;34m~~~~~~~~~[1;33m~~~~~~~~~[1;31m~~~~~~~~~[0m
 Hello there 👋 , are you lost ? I may have a hint for you, the key lies within the
 amount of knowledge you have , but shh let this be our secret !!
