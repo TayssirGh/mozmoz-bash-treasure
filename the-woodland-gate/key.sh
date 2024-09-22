@@ -1,6 +1,6 @@
 #!/bin/bash
 
-chest_file="chest.txt"
+chest_file="puzzle-box"
 RED='\033[1;31m'
 YELLOW='\033[\0;33m'
 BLUE='\033[0;34m'

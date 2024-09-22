@@ -88,11 +88,11 @@ cat <<EOF
 Well Hello there traveler , I see you already made it through the past challenges, but don't be so quick it won't be easy for you !
 EOF
 sleep 3
-echo -e "Now if you want to get past me you have two choices either you will fight me or give me all your gold ! "
+echo -e "Now if you want to get past me you have two choices either you will battle with me or give me all your gold ! "
 sleep 4
 echo -e "You must've already made your choice "
 sleep 1
-echo -e "If you chose to fight type ${BLUE}f${NC} and if you chose gold type ${BLUE}g${NC}"
+echo -e "If you chose to battle type ${BLUE}f${NC} and if you chose gold type ${BLUE}g${NC}"
 read -r ans
 if [[ $ans  == f  ]] || [[ $ans  == F  ]]; then
   has_hp

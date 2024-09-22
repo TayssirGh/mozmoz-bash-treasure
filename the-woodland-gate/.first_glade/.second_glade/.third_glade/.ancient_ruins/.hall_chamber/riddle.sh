@@ -22,7 +22,7 @@ if [[ -e XCR-1 && -e LCR-2 && -e DCR-3 ]]; then
   mv .fourth_glade fourth_glade 2>/dev/null
   exit
 else
-  echo "You can check the ancient_scroll to solve the riddle"
+  echo "You can check the ancient_scroll to solve the riddle and then rerun this script"
   sleep 4
   echo "Using Ctrl+C can get you back to the user to the shell prompt"
   sleep 1
