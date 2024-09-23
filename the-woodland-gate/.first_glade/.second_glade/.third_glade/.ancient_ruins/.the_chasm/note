@@ -1,0 +1,8 @@
+  [0;34m#######################[1;33m#########################[1;31m##########################[0m
+  | The grep command in Unix/Linux is a powerful tool used for searching    |
+  | and manipulating text patterns within files.                            |
+  | By default, grep displays the entire line which has the matched string. |
+  | We can make the grep to display only the matched string by using the -o |
+  | option.                                                                 |
+  |    [1;33mgrep -o "pattern" filename   [0m                                        |
+  [0;34m#######################[1;33m#########################[1;31m##########################[0m
