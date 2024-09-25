@@ -61,6 +61,8 @@ while (( herbor_memory > 0 && liora_health > 0 )); do
 
     if (( liora_health <= 0 )); then
         echo -e "${RED}Liora's light has faded completely... you have failed.${NC}"
+        chmod +x ./.gameover.sh
+        ./.gameover.sh
         exit 1
     fi
 done
@@ -111,4 +113,4 @@ herbor_msg="
 "
 echo -e "$herbor_msg" > "$herbor_file"
 
-rm -- "$(basename "$0")"
+#rm -- "$(basename "$0")"
