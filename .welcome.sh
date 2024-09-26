@@ -25,7 +25,7 @@ that lies within the mysterious depths of the Linux directories.
 But beware! The path is treacherous, filled with riddles and 
 challenges that only the cleverest of minds can solve.
 ${RED}cd${NC}, ${RED}ls${NC} and ${RED}cat${NC} are all you need to know to start playing,
-and ALWAYS READ THE ${RED}GRIMORES${NC} FIRST, THEY CONTAIN IMPORTANT INFO!
+and ALWAYS READ THE ${RED}GRIMOIRES${NC} FIRST, THEY CONTAIN IMPORTANT INFO!
 
 May your journey be filled with courage, wisdom, and luck.
 ${BLUE}~~~~~~~~~~~~~~~~${YELLOW}~~~~~~~~~~~~~~~~~~~~${RED}~~~~~~~~~~~~~~~~~~~~~~~~~${NC}
