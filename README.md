@@ -35,7 +35,7 @@ Before starting your adventure, it is recommended to be familiar with the basic 
 Once the game starts, follow the instructions given by Mozmoz, the friendly wizard, who will guide you through the dungeon of directories. Along the way, you'll face challenges where Grimoires  will provide hints and guidance. Be sure to read them carefully, as they hold the secrets to advancing.
 
 
-Have fun playing!
+Have fun playing 🥰!
 
 ![mozmoz](./.img/mozmoz.png)
 
