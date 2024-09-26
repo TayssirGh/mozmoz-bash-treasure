@@ -2,7 +2,7 @@
 
 welcome_file="welcome"
 RED='\033[1;31m'
-YELLOW='\033[\1;33m'
+YELLOW='\033[1;33m'
 BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 welcome_message="
