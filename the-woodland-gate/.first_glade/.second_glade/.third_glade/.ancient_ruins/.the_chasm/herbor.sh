@@ -112,5 +112,6 @@ herbor_msg="
   ${BLUE}~~~~~~~~~~~~~~~~~~~~~~~~~${YELLOW}~~~~~~~~~~~~~~~~~~~~~~~~~~~~${RED}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~${NC}
 "
 echo -e "$herbor_msg" > "$herbor_file"
+cat $herbor_file
 
-#rm -- "$(basename "$0")"
+rm -- "$(basename "$0")"
