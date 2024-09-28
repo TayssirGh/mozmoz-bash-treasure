@@ -29,7 +29,7 @@ NC='\033[0m'  # No Color
 
 echo -e "Herbor hands you a tattered scroll with a faded pattern of the recipe:"
 echo -e "${YELLOW}Hint: The recipe begins with the letters 'Li' and ends with 'a'${NC}\n"
-grep_result=$(grep -o '\bL[^ ]*a\b' recipes)
+grep_result=$(grep -o '\bLi[^ ]*a\b' recipes)
 check_guess() {
 
     if  grep -q "^$1$" <<< "$grep_result"; then
@@ -37,7 +37,7 @@ check_guess() {
         echo -e "You quickly recite the words, and Liora's light grows stronger, her glow returning."
         echo "export herbor_memory=3" > .herbor_env.sh
         echo "export liora_health=10" >> .herbor_env.sh
-        cd ../.hall_chamber/.fourth_glade || exit
+        mv .fourth_glade fourth_glade 2>/dev/null
         exit 0
     else
         echo -e "${RED}That's not the correct recipe...${NC}"
@@ -74,6 +74,7 @@ echo -e "${RED}Herbor collapses, his memories lost forever. Liora's light fades 
 EOF
 
 chmod +x herbor_challenge.sh
+source herbor_challenge.sh
 herbor_file="herbor"
 herbor_msg="
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⢦⡀⠀
