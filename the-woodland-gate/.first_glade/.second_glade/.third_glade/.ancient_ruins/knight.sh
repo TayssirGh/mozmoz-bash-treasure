@@ -121,7 +121,7 @@ if [[ $ans  == f  ]] || [[ $ans  == F  ]]; then
       elif [[ $finish_ans == n ]] || [[ $finish_ans == N ]]; then
           echo -e "You spared the knight! He appreciates your mercy and offers you a gift.\n"
           knight_gift
-          hall_chamber
+          pass
       else
         echo "Your answer is invalid"
       fi
@@ -129,7 +129,7 @@ elif [ "$ans" == g ]; then
   echo "Keeping it simple huh ?"
   ((gold -= 10))
   echo "You now have $gold remaining"
-  hall_chamber
+  pass
 else
   echo "Your answer is invalid"
 fi
