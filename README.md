@@ -21,8 +21,8 @@ There are two ways to install and play the game:
     cd mozmoz-treasure.
 2. **Run the game:**
    ```bash
-    chmod +x ./welcome.sh
-   ./welcome.sh
+    chmod +x ./.welcome.sh
+   ./.welcome.sh
 ### Option 2: Pull from Docker Hub
 1. **Pull the Docker image:**
    ```bash
