@@ -8,8 +8,8 @@
 
  [0;34m------------------[1;33m--------------------[1;31m---------------------[0m
  # Create a variable to add it to your inventory.            #
- # « export I=short_wand »                                   #
+ # [1;33m« export I=short_wand » [0m                                  #
  # You can view your inventory with:                         #
- # « echo $I »                                               #
- # Now that you have a sword, try to kill the Elden Beast!   #
+ # [1;33m« echo $I »[0m                                               #
+ # Now that you have a wand , try to kill the Elden Beast!   #
  [0;34m------------------[1;33m--------------------[1;31m---------------------[0m

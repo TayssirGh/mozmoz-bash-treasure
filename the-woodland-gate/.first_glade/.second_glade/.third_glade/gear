@@ -1,13 +1,10 @@
-[0;34m------------------[1;33m--------------------[1;31m---------------------[0m
-# So far, you've learned how to assign values to variables      #
-# and print them using echo. You've probably also noticed       #
-# that assigning a new value to a variable overrides the        #
-# previous one, which is the purpose of a variable. But         #
-# what if you want to add a value to the existing value in      #
-# a variable?For example, you might want to keep the wand       #
-# sword and add the long wand  to your inventory as well.       #
-# In that case, you can use the following syntax:               #
-#    [0;34m export I=long_wand,$I    [0m                                 #
-# With that, the long_wand  is added to your inventory. If you  #
-# echo $I, you’ll see that both items are now in your inventory.#
-[0;34m------------------[1;33m--------------------[1;31m---------------------[0m
+[0;34m--------------------[1;33m----------------------[1;31m-----------------------[0m
+|  So far, you've learned to assign values to variables and       |
+|  print them with echo. Normally, assigning a new value          |
+|  overrides the previous one. But if you want to add to an       |
+|  existing value, like adding a "long wand" to your inventory,   |
+|   you can use:                                                  |
+|     [0;33m export I=long_wand,$I    [0m                                  |
+|  With that, the long_wand  is added to your inventory. If you   |
+|  echo $I, you’ll see that both items are now in your inventory. |
+[0;34m--------------------[1;33m----------------------[1;31m-----------------------[0m

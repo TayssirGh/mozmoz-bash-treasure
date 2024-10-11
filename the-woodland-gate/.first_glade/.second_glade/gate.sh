@@ -40,5 +40,6 @@ cat <<EOF >gold
 [0;34m#[0m echo \$gold                                                  [1;31m#[0m
 [0;34m####################[1;33m######################[1;31m####################[0m
 EOF
+cat gold
 
 mv .third_glade third_glade 2>/dev/null
