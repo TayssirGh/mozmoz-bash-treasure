@@ -1,5 +1,5 @@
 FROM opensuse/leap:latest
-WORKDIR /usr/src/app
+WORKDIR /usr
 RUN zypper install -y less
 COPY . .
 RUN chmod +x .welcome.sh
