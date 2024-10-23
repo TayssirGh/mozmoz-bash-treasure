@@ -1,5 +1,5 @@
 FROM opensuse/leap:latest
-WORKDIR /usr
+WORKDIR /usr/mozmoz-quest
 RUN zypper install -y less
 COPY . .
 RUN chmod +x .welcome.sh
