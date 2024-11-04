@@ -18,7 +18,7 @@ There are two ways to install and play the game:
 1. **Clone the repository:**
    ```bash
     git clone https://github.com/tayssirgh/mozmoz-treasure.git
-    cd mozmoz-treasure.
+    cd mozmoz-treasure
 2. **Run the game:**
    ```bash
     chmod +x ./.welcome.sh
